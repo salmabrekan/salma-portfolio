@@ -1,2 +1,0 @@
-ضع ملف السيرة الذاتية (cv.pdf) في هذا المجلد ليعمل زر التحميل.
-Place your CV file (cv.pdf) in this folder to enable the download button.
