@@ -127,15 +127,6 @@ export default function Education() {
           {/* Background decoration */}
           <div className="absolute inset-0 bg-dots opacity-20" />
           <div className="absolute top-0 right-0 w-48 h-48 rounded-full bg-white/10 blur-2xl -translate-y-1/2 translate-x-1/2" />
-          <div className="absolute bottom-0 left-0 w-40 h-40 rounded-full bg-white/10 blur-2xl translate-y-1/2 -translate-x-1/2" />
-
-          <div className="relative z-10">
-            <span className="text-4xl text-white/30 font-black leading-none block mb-2">"</span>
-            <p className="text-white text-xl font-bold leading-relaxed max-w-2xl mx-auto">
-              التعليم هو السلاح الأقوى الذي يمكنك استخدامه لتغيير العالم
-            </p>
-            <p className="text-brand-200 text-sm mt-3 font-medium">— نيلسون مانديلا</p>
-          </div>
         </motion.div>
       </div>
     </section>

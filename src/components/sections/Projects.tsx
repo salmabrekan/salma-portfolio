@@ -10,8 +10,6 @@ export default function Projects() {
   const { projects } = portfolioData;
   const [showAll, setShowAll] = useState(false);
   const [hoveredId, setHoveredId] = useState<number | null>(null);
-
-  const displayedProjects = showAll ? projects : projects.slice(0, 4);
   const featuredProjects = projects.filter((p) => p.featured);
 
   return (
